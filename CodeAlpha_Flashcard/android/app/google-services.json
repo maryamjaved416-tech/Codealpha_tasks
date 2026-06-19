@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912758333376",
+    "project_id": "flashcard-app-maryam",
+    "storage_bucket": "flashcard-app-maryam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912758333376:android:9b8f6f17f6850b60473225",
+        "android_client_info": {
+          "package_name": "com.example.flashcard_app_maryam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoAKnJeJfj2qT0h1jW1yasIUjQ9K-RMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -11,12 +11,17 @@ A Flutter application that displays random motivational quotes with share functi
 **Status:** Completed
 
 ---
+### 2. Flashcard Quiz App ✅
+A Flutter flashcard application with Firebase authentication and Firestore database.
 
+**Technologies:** Flutter, Dart, Firebase Auth, Cloud Firestore
 
-git add README.md
-git commit -m "Updated main README with project list"
-git push
+**Features:** 
+- User Registration & Login
+- Create, Edit, Delete Flashcards  
+- Interactive Quiz Mode with Score Tracking
+- Real-time Data Sync with Firestore
 
-
+**Status:** Completed
 ---
 *More projects will be added soon*
